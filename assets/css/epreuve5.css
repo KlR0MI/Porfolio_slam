@@ -27,7 +27,7 @@ h6 {
 --------------------------------------------------------------*/
 #header {
   padding: 25px 0;
-  background: #195c87;
+  background: #b99b35;
   min-height: 40px;
   margin-bottom: 15px;
 }
@@ -107,7 +107,7 @@ h6 {
 # Presentation épreuve E5
 --------------------------------------------------------------*/
 .portfolio-description h2 {
-  color: #195c87;
+  color: #b99b35;
   font-weight: 600;
   font-style: normal;
   font-size: 32px;
@@ -133,7 +133,7 @@ h6 {
 .portfolio .section-title h2 {
   padding-bottom: 20px;
   margin-bottom: 20px;
-  color: #195c87;
+  color: #b99b35;
   font-weight: 600;
   font-style: normal;
   font-size: 32px;
@@ -146,7 +146,7 @@ h6 {
   display: block;
   width: 50px;
   height: 3px;
-  background: #195c87;
+  background: #b99b35;
   left: 0;
   bottom: 0;
 }
@@ -180,16 +180,16 @@ h6 {
   justify-content: center;
   width: 233px;
   height: 56px;
-  background: #195c87;
+  background: #b99b35;
   text-decoration: none;
   border: 4px double #fff;
 }
 
 .portfolio .d-flex a:hover {
-  color: #195c87;
+  color: #b99b35;
   background: #fff;
   transition: 1s ease-in-out;
-  border-color: #195c87;
+  border-color: #b99b35;
 }
 
 .portfolio-container {
@@ -212,7 +212,7 @@ h6 {
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(25, 92, 135, 0.8);
+  background: rgba(185, 134, 57, 0.8);
   position: absolute;
   left: 30px;
   right: 30px;
